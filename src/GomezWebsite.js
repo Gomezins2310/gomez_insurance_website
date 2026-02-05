@@ -141,7 +141,7 @@
                     <div className="mt-6 space-y-4 text-sm text-slate-700">
                       <div>
                         <strong>Address</strong>
-                        <div>123 Main Street, Suite 100<br/>Tulsa, OK 74104</div>
+                        <div>2310 S Garnett Rd, Suite 100<br/>Tulsa, OK 74129</div>
                       </div>
 
                       <div>
